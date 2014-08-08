@@ -249,7 +249,7 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
-
+dd
 > **Note:** You can find more information:
 
 > - about **Sequence diagrams** syntax [here][7],
