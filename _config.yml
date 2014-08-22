@@ -27,8 +27,8 @@ tools:
 links:
   - title: About
     url: /about
-  - title: Articals
-    url: /articals
+  - title: Articles
+    url: /articles
   - title: Reviews
     url: /reviews            
   - title: Github
