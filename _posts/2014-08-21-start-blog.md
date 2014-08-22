@@ -21,10 +21,10 @@ date: 2014-08-21
 
 ### mathjax
 
-$$lambda$$
+$$\lambda$$
 
 Works.
 
-inline math //[ lambda //] should ok. //( lambda //)  or $$lambda$$ or /[ lambda /]
+inline math //[ \lambda //] should ok. //( \lambda //)  or $$\lambda$$ or /[ \lambda /]
 
 Does not work.
