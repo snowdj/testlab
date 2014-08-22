@@ -43,6 +43,20 @@
 <!-- Load Modernizr -->
 <script src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
+<!-- Load MathJax for LaTeX awesomeness : from https://github.com/allanino/allanino.github.io/blob/master/_includes/head.html-->
+{% if page.math %}
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/javascript">
+MathJax.Hub.Config({
+extensions: ["tex2jax.js"],
+"HTML-CSS": { scale: 200}
+});
+</script>
+{% endif %}
+
+
 
 <!-- Icons -->
 <!-- 16x16 -->
