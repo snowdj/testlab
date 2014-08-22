@@ -27,8 +27,12 @@ tools:
 links:
   - title: About
     url: /about
+  - title: Articals
+    url: /articals
+  - title: Reviews
+    url: /reviews            
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: http://snowdj.github.io/balzac
     external: true
   - title: Cole Who?
     url: http://coletownsend.com

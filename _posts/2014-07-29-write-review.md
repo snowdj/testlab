@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Start to write review"
-category: articles
+category: reviews
 tag: reviewstag
 context: "context."
 description: "descriptioin."
