@@ -23,5 +23,8 @@ date: 2014-08-21
 
 $$lambda$$
 
-inline math //[ lambda //] should ok.
+Works.
 
+inline math //[ lambda //] should ok. //( lambda //)  or $$lambda$$ or /[ lambda /]
+
+Does not work.
