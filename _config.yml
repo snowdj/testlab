@@ -1,8 +1,8 @@
 title:            Balzac
 tagline:          A beautiful theme.
 description:      Describe your website.
-canonical:        http://snowdj.github.io/balzac
-#url: http://snowdj.github.io/balzac
+#canonical:        http://snowdj.github.io/balzac
+url:              http://snowdj.github.io/balzac
 
 # Owner/author information
 owner:
