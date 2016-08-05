@@ -12,8 +12,9 @@ math: TRUE
 buy:
   amazon: 
 image:
-  feature: /images/autumn.jpg
+  feature: /images/soft-trees.jpg
 date: 2014-08-21
+
 ---
 
 # Title

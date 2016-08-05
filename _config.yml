@@ -6,14 +6,14 @@ url:              http://snowdj.github.io/balzac
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           snowdj
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
+  email:          snowdj@gmail.com
   twitter:        snowdj1984
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
+  github:         snowdj
+  #instagram:      ctrunsthis
+  #dribbble:       coletownsend
   disqus:         snowdj
   location:       "Buffalo, NY"
   # Plug in your disqus shortname!
@@ -25,8 +25,6 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title: Articles
     url: /articles
   - title: Reviews
@@ -34,9 +32,8 @@ links:
   - title: Github
     url: http://snowdj.github.io/balzac
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
+  - title: About
+    url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
