@@ -12,7 +12,7 @@ math: TRUE
 buy:
   amazon: 
 image:
-  feature: /images/soft-trees.jpg
+  feature: soft-trees.jpg
 date: 2014-08-21
 
 ---
